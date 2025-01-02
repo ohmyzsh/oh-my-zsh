@@ -12,7 +12,7 @@ plugins=(... kubectl)
 ## Aliases
 
 | Alias    | Command                                            | Description                                                                                      |
-|:---------|:---------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| :------- | :------------------------------------------------- | :----------------------------------------------------------------------------------------------- |
 | k        | `kubectl`                                          | The kubectl command                                                                              |
 | kca      | `kubectl --all-namespaces`                         | The kubectl command targeting all namespaces                                                     |
 | kaf      | `kubectl apply -f`                                 | Apply a YML file                                                                                 |
